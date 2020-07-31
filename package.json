@@ -1,0 +1,26 @@
+{
+  "name": "first-repo-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -- rodando na porta 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilela272/first-repo-remote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vilela272/first-repo-remote/issues"
+  },
+  "homepage": "https://github.com/Vilela272/first-repo-remote#readme",
+  "dependencies": {
+    "bootstrap": "~4.5.0",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {}
+}
